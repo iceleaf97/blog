@@ -36,7 +36,7 @@ function createLight() {
 
 function createModel(){
     var geometry = new THREE.OctahedronGeometry(5, 1);
-    var mtl = new THREE.MeshNormalMaterial();
+    var mtl = new THREE.MeshPhongMaterial({color: 0xffffff});
     var mesh = new THREE.Mesh(geometry, mtl);
     scene.add(mesh);
 }
