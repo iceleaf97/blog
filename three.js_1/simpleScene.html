@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>simple 3D</title>
+</head>
+<body>
+<div id="scene"></div>
+
+<script src="three.min.js"></script>
+<script>
+    init();
+
+    function init() {
+// create Three.js scene.
+        console.log(5555);
+        var scene = new THREE.Scene();
+
+// create a camera
+        var camera = new THREE.PerspectiveCamera(
+                50,
+                window.innerWidth/window.innerHeight,
+                1,
+                10000
+        );
+        camera.position.set(0,0,10);
+
+// create a Sphere
+        var geometry = new THREE.SphereGeometry( 2, 8, 6 );
+        var material = new THREE.MeshBasicMaterial( {color: 0x0000ff} );
+        var sphere = new THREE.Mesh( geometry, material );
+        scene.add( sphere );
+
+// render the scene.
+        var renderer = new THREE.WebGLRenderer();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        renderer.render(scene, camera);
+        var container = document.getElementById('scene');
+        container.appendChild(renderer.domElement);
+
+    }
+</script>
+
+</body>
+</html>
