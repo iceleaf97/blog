@@ -56,7 +56,7 @@ function createModel(){
     scene.add(mesh);
 
     var jsonLoader = new THREE.JSONLoader();
-    jsonLoader.load('models/ball_82_2.json', addBall);
+    jsonLoader.load('models/ball_82.json', addBall);
     function addBall(geometry, material) {
         var ballbuffer = new THREE.BufferGeometry().fromGeometry(geometry);
         var mtl = new THREE.MultiMaterial( material);
