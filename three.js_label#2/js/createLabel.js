@@ -38,7 +38,7 @@ function createScene() {
     near = 1;
     far = 10000;
     camera = new THREE.PerspectiveCamera(fov, aspect, near, far);
-    camera.position.set(0, 0, 30);
+    camera.position.set(0, 15, 20);
 }
 
 function createModel() {
@@ -126,6 +126,12 @@ function createOrbit() {
 }
 
 function loop() {
+    scene.traverse(function (child) {
+        if(child instanceof THREE.Mesh){
+            child.rotation.y += 0.01;
+        }
+    });
+
     renderer.render(scene, camera);
     requestAnimationFrame(loop);
 }
