@@ -116,7 +116,7 @@ function render() {
     renderer = new THREE.WebGLRenderer();
     renderer.setSize(WIDTH, HEIGHT);
     renderer.setClearColor(0x252839, 1);
-    renderer.render(scene, camera);
+    // renderer.render(scene, camera);
     container = document.getElementById('world');
     container.appendChild(renderer.domElement);
 }

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c112f9b5-25ad-4e56-bf13-7706f5adf8e0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/three.js_label#2/createLabel.html" afterPath="$PROJECT_DIR$/three.js_label#2/createLabel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/three.js_label#2/js/createLabel.js" afterPath="$PROJECT_DIR$/three.js_label#2/js/createLabel.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="createLabel.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="createLabel.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/three.js_label#2/createLabel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="380">
+              <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="createLabel.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="createLabel.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/three.js_label#2/js/createLabel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-57">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="755">
+              <caret line="135" column="32" lean-forward="true" selection-start-line="135" selection-start-column="32" selection-end-line="135" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -52,6 +53,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/three.js_label#2/createLabel.html" />
+        <option value="$PROJECT_DIR$/three.js_label#2/js/createLabel.js" />
       </list>
     </option>
   </component>
@@ -146,12 +148,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1482395747580</updated>
-      <workItem from="1482395748785" duration="625000" />
+      <workItem from="1482395748785" duration="977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="625000" />
+    <option name="totallyTimeSpent" value="977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1120" height="1047" extended-state="0" />
@@ -186,18 +188,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/three.js_label#2/js/createLabel.js">
+    <entry file="file://$PROJECT_DIR$/three.js_label#2/createLabel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="380">
+          <caret line="20" column="30" lean-forward="true" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/three.js_label#2/createLabel.html">
+    <entry file="file://$PROJECT_DIR$/three.js_label#2/js/createLabel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="755">
+          <caret line="135" column="32" lean-forward="true" selection-start-line="135" selection-start-column="32" selection-end-line="135" selection-end-column="32" />
           <folding />
         </state>
       </provider>
