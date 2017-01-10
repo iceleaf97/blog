@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c112f9b5-25ad-4e56-bf13-7706f5adf8e0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/three.js_importOBJ/loadModel.html" afterPath="$PROJECT_DIR$/three.js_importOBJ/loadModel.html" />
-    </list>
+    <list default="true" id="c112f9b5-25ad-4e56-bf13-7706f5adf8e0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -56,8 +54,6 @@
       <file leaf-file-name="loadModel.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/three.js_importOBJ/loadModel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -240,12 +236,10 @@
       <workItem from="1484031612411" duration="4781000" />
       <workItem from="1484036603947" duration="10000" />
       <workItem from="1484074558556" duration="102000" />
-      <workItem from="1484075305638" duration="2110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="325" y="0" width="1602" height="1047" extended-state="0" />
@@ -424,8 +418,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/three.js_importOBJ/loadModel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
           <folding />
         </state>
       </provider>
