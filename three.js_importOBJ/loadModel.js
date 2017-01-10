@@ -78,7 +78,7 @@ function createModel() {
 function render() {
     renderer = new THREE.WebGLRenderer({antialias:true, alpha: true});
     renderer.setSize(WIDTH, HEIGHT);
-    // renderer.render(scene, camera);
+    renderer.render(scene, camera);
     container = document.getElementById('world');
     container.appendChild(renderer.domElement);
 }
