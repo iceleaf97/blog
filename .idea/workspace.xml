@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c112f9b5-25ad-4e56-bf13-7706f5adf8e0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/three.js_importOBJ/css/style.css" afterPath="$PROJECT_DIR$/three.js_importOBJ/css/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -47,7 +46,7 @@
       <file leaf-file-name="loadModel.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/three.js_importOBJ/loadModel.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="1349">
               <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
               <folding />
             </state>
@@ -67,8 +66,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/three.js_importOBJ/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="228">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -240,12 +239,12 @@
       <workItem from="1484031612411" duration="4781000" />
       <workItem from="1484036603947" duration="10000" />
       <workItem from="1484074558556" duration="102000" />
-      <workItem from="1484075305638" duration="752000" />
+      <workItem from="1484075305638" duration="929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8461000" />
+    <option name="totallyTimeSpent" value="8638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="846" y="0" width="1081" height="1047" extended-state="0" />
@@ -416,7 +415,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/three.js_importOBJ/loadModel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="1349">
           <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
           <folding />
         </state>
@@ -424,8 +423,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/three.js_importOBJ/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="228">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
