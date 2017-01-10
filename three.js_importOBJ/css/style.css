@@ -1,5 +1,5 @@
 body {
-    margin: 0 auto;
+    margin: 0;
     overflow: hidden;
     background: #70e1f5; /* fallback for old browsers */
     background: -webkit-linear-gradient(to left, #70e1f5 , #ffd194); /* Chrome 10-25, Safari 5.1-6 */
