@@ -11,14 +11,15 @@
 <div id="scene"></div>
 
 <script>
+    var camera, controls, renderer, scene;
     window.addEventListener('load', init, false);
     
     function init() {
 // create Three.js scene.
         console.log(5555);
-        var scene = new THREE.Scene();
+        scene = new THREE.Scene();
 // create a camera
-        var camera = new THREE.PerspectiveCamera(
+        camera = new THREE.PerspectiveCamera(
                 50,
                 window.innerWidth/window.innerHeight,
                 1,
